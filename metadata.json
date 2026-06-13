@@ -1,0 +1,6 @@
+{
+  "name": "Student Industrial Training Management System",
+  "description": "A comprehensive portal for students, supervisors, and administrators to streamline academic industrial training (SIWES/IT) activities, with interactive logbooks, attendance recording, weekly reviews, grading and AI report assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
